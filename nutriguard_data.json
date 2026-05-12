@@ -1,0 +1,349 @@
+{
+  "profile": {
+    "name": "saif",
+    "age": 23,
+    "weight_kg": 83.0,
+    "height_cm": 154.0,
+    "gender": "male",
+    "activity_level": "moderate",
+    "health_conditions": [
+      "Hypertension",
+      "High Cholesterol",
+      "Celiac Disease"
+    ],
+    "allergies": [
+      "none"
+    ],
+    "goal": "maintain_weight",
+    "target_weight_kg": 0.0,
+    "daily_calorie_goal": 2608,
+    "macro_targets": {
+      "protein_g": 150,
+      "carbs_g": 200,
+      "fat_g": 65
+    },
+    "setup_complete": true
+  },
+  "log": [
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-11"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-11"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-11"
+    },
+    {
+      "product_name": "pizza",
+      "ingredients": "chicken\ncheese\nolives\ntomatoes\nflour",
+      "calories": 1000.0,
+      "protein_g": 100.0,
+      "carbs_g": 200.0,
+      "fat_g": 15.0,
+      "sugar_g": 0.0,
+      "sodium_mg": 10.0,
+      "date": "2026-05-11"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-12"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-12"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-12"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-12"
+    },
+    {
+      "product_name": "pizza",
+      "ingredients": "olives\ncheese \nchicken\ntomatoes\ncapsicum",
+      "calories": 56.0,
+      "protein_g": 334.0,
+      "carbs_g": 32.0,
+      "fat_g": 13.0,
+      "sugar_g": 0.0,
+      "sodium_mg": 234.0,
+      "date": "2026-05-12"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-12"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-12"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-12"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-12"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-12"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-12"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-12"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-12"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-12"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-12"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-12"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-12"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-12"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-13"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-13"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-13"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-13"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-13"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-13"
+    },
+    {
+      "product_name": "Example Snack Product",
+      "ingredients": "Water, Sugar, Wheat Flour, Palm Oil, Salt, Dextrose, Sodium Bicarbonate, High Fructose Corn Syrup, Soy Lecithin, Natural Flavour, Citric Acid",
+      "calories": 450.0,
+      "protein_g": 5.0,
+      "carbs_g": 58.0,
+      "fat_g": 18.0,
+      "sugar_g": 22.0,
+      "sodium_mg": 380.0,
+      "date": "2026-05-13"
+    }
+  ],
+  "analyses": []
+}
